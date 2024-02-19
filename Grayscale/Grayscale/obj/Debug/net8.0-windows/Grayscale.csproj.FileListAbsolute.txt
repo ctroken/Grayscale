@@ -1,0 +1,16 @@
+C:\Users\kenne\source\repos\Grayscale\Grayscale\obj\Debug\net8.0-windows\Grayscale.Form1.resources
+C:\Users\kenne\source\repos\Grayscale\Grayscale\obj\Debug\net8.0-windows\Grayscale.csproj.GenerateResource.cache
+C:\Users\kenne\source\repos\Grayscale\Grayscale\obj\Debug\net8.0-windows\Grayscale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenne\source\repos\Grayscale\Grayscale\obj\Debug\net8.0-windows\Grayscale.AssemblyInfoInputs.cache
+C:\Users\kenne\source\repos\Grayscale\Grayscale\obj\Debug\net8.0-windows\Grayscale.AssemblyInfo.cs
+C:\Users\kenne\source\repos\Grayscale\Grayscale\obj\Debug\net8.0-windows\Grayscale.csproj.CoreCompileInputs.cache
+C:\Users\kenne\source\repos\Grayscale\Grayscale\bin\Debug\net8.0-windows\Grayscale.exe
+C:\Users\kenne\source\repos\Grayscale\Grayscale\bin\Debug\net8.0-windows\Grayscale.deps.json
+C:\Users\kenne\source\repos\Grayscale\Grayscale\bin\Debug\net8.0-windows\Grayscale.runtimeconfig.json
+C:\Users\kenne\source\repos\Grayscale\Grayscale\bin\Debug\net8.0-windows\Grayscale.dll
+C:\Users\kenne\source\repos\Grayscale\Grayscale\bin\Debug\net8.0-windows\Grayscale.pdb
+C:\Users\kenne\source\repos\Grayscale\Grayscale\obj\Debug\net8.0-windows\Grayscale.dll
+C:\Users\kenne\source\repos\Grayscale\Grayscale\obj\Debug\net8.0-windows\refint\Grayscale.dll
+C:\Users\kenne\source\repos\Grayscale\Grayscale\obj\Debug\net8.0-windows\Grayscale.pdb
+C:\Users\kenne\source\repos\Grayscale\Grayscale\obj\Debug\net8.0-windows\Grayscale.genruntimeconfig.cache
+C:\Users\kenne\source\repos\Grayscale\Grayscale\obj\Debug\net8.0-windows\ref\Grayscale.dll
